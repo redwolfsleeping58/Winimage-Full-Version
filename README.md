@@ -1,0 +1,1 @@
+# Winimage-Full-Version
