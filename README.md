@@ -239,3 +239,6 @@ This repository serves as the official landing page for WinImage. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WinImage today!**
+
+---
+**Last updated:** 2026-09-11 00:51:59 UTC
