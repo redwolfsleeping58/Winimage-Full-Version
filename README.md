@@ -241,4 +241,4 @@ This repository serves as the official landing page for WinImage. The software i
 **Get the most recent version of WinImage today!**
 
 ---
-**Last updated:** 2026-10-31 22:12:15 UTC
+**Last updated:** 2026-11-01 01:52:25 UTC
